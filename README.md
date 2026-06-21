@@ -2,3 +2,7 @@
 # My Notebook
 
 [Download the notebook](./catcup.ipynb)
+
+<a href="/catcup.ipynb" download>
+    Download Notebook
+</a>

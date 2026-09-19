@@ -1,8 +1,8 @@
 # hubert2027.github.io
 # My Notebook
 
-[Download the notebook](./exex.ipynb)
+[Download the notebook](./ML.ipynb)
 
-<a href="/exex.ipynb" download>
+<a href="/ML.ipynb" download>
     Download Notebook
 </a>
